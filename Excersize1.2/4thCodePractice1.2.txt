@@ -1,0 +1,5 @@
+str3[3:] = "lo, how are you?"
+str3[-3:] = "ou?"
+str3[2:9:3] = "l, r"
+str3[::-2] = "?? rwy roh"
+str3[2:8] = "llo, ho"
