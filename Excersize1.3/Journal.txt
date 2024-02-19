@@ -16,4 +16,4 @@ else:
 
 3: Functions in Python are blocks of reusable code that perform a specific task. They allow you to break down a program into smaller, more manageable pieces, which can be organized and reused throughout your code. Functions are defined using the def keyword followed by the function name and parameters. They are useful for encapsulating code, reusability, and modularity.
 
-4: 
+4: For my goals, while I haven't learned anything about writing APIs using Python yet, I hope further in the course I will learn more about that. However, I am still thinking about how different pieces of JavaScript code in APIs could be swapped to Python. I am getting better at not having to look up how to do certain things in Python, but I still mess up the capitalization or try to use {} sometimes. Like the previous goal, I am getting better at swapping between JavaScript and Python, but I still try to use {} to define Python functions but I hope I will grow out of that habit
