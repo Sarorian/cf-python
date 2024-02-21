@@ -1,0 +1,9 @@
+File storage is important in Python for saving and retrieving data between program executions. Without storing local files, any data generated or processed during the program's execution would be lost once the program terminates. File storage allows for the persistence of data, enabling long-term data management and reuse.
+
+Pickles in Python refer to a way of serializing and deserializing Python objects into a byte stream. You would use pickles when you need to store Python objects in a file or transmit them over a network. Pickles are useful for saving program states, caching objects, or transferring data between different Python programs or different machines.
+
+To find out the current directory in Python, you can use the os.getcwd() function from the os module. If you wanted to change your current working directory, you would use the os.chdir() function, passing the path of the directory you want to change to as an argument.
+
+To prevent the entire script from terminating due to an error in a specific block of code, you can use a try-except block. Wrap the potentially error-prone code within the try block, and catch any exceptions using the except block. By doing this, you can handle errors gracefully, allowing the script to continue execution even if errors occur in certain parts of the code.
+
+I'm proud that I'm staying on track with the 3 lessons a week. For my other courses like the Full Stack Development one I got far behind and it was hard to catch up. I'm struggling a bit with the syntax of using : instead of {} to define functions. I'ts hard for me to understand what is in a function and what is outside of it.
