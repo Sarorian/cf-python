@@ -1,0 +1,9 @@
+Object-oriented programming (OOP) is a way of writing code where you create objects that contain both data and function on what to do with that data. Using OOP you can organzie your code better and reuse it easier in different parts of your code
+
+In Python, classes are blueprints for making things, and objects are the actual things that you make. The class is like the cookie cutter and the object is the cookie. For example, if you have a class called "Car", you can use it to create different types of cars with different attributes like color, make, and year
+
+Inheritance: Inheritance is like passing down traits from parents to children, but for code. Let's say you have a class called "Animal" with some basic features like legs and eyes. You can create another class called "Dog" that "inherits" all the features of the "Animal" class, like legs and eyes, and then add some extra features like barking. This way, you don't have to rewrite the same code for every type of animal you want to create.
+
+Polymorphism: Polymorphism is like a magic trick that makes different objects act the same way even though they're different behind the scenes. Imagine you have a bunch of animals - dogs, cats, birds - all making sounds. Instead of having separate methods for each type of animal, you can use polymorphism to have a single method called "make_sound" that behaves differently depending on the type of animal. So, whether it's a dog barking or a bird chirping, they all use the same method name but do different things.
+
+Operator Overloading: Operator overloading is like giving new meanings to familiar symbols in Python. For instance, you know how the plus sign (+) usually adds numbers together? With operator overloading, you can teach Python to use the plus sign (+) to do something completely different, like concatenate strings or merge lists. It's a way to customize how Python works with your own objects, making your code more versatile and expressive.
